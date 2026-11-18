@@ -1,0 +1,28 @@
+           *** Tank Version 1.0Beta Copyright (c) 1995 FuzzySoft ***
+
+Documentation For tank:
+
+This is a beta copy of tank, for you to test to see if this games is any
+good. If you like it, please tell me, if you think it sucks please tell
+me. If I have a lot of people saying "I like this game" then I will program
+future versions, which will actually be half decent.
+
+Tank is a two player game in which you try to kill each other.
+
+To play, each player controls one tank and tries to blow up the other
+tank. It takes ten shots to destroy a tank. The first tank destroyed is
+the loser and the game ends.
+
+Controls:
+
+        Player #1: Left Tank(Keyboard)   Player #2: Right Tank(Numberpad)
+        Up:     W                        Up:     8
+        Left:   A                        Left:   4
+        Right:  S                        Right:  6
+        Down:   X                        Down:   2
+        Fire:   SPACE                    Fire:   0
+
+Tank is free software, use at your own risk.
+
+To contact FuzzySoft Call The Fuzzy Duck BBS (604)642-2517 and leave a
+message for Roland Rabien or Malcolm Walker. Happy Tanking.
